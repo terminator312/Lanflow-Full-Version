@@ -241,3 +241,6 @@ This repository serves as the official landing page for LanFlow. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of LanFlow today!**
+
+---
+**Last updated:** 2026-09-12 19:06:10 UTC
